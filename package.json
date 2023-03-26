@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangdicoder/react-native-indicator.git"
+    "url": "git+https://github.com/zubyrbutt/react-native-indicator-2.git/react-native-indicator.git"
   },
   "keywords": [
     "react-native",
@@ -17,12 +17,12 @@
     "loader",
     "progress"
   ],
-  "author": "Di Wang <wangdicoder@gmail.com>",
+  "author": "zubyrbutt <zubyrbutt@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangdicoder/react-native-indicator/issues"
+    "url": "https://github.com/zubyrbutt/react-native-indicator-2.git/react-native-indicator/issues"
   },
-  "homepage": "https://github.com/wangdicoder/react-native-indicator#readme",
+  "homepage": "https://github.com/zubyrbutt/react-native-indicator-2.git/react-native-indicator#readme",
   "dependencies": {
     "prop-types": "^15.6.0"
   },
