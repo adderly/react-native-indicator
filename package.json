@@ -1,7 +1,7 @@
 {
-  "name": "react-native-indicator",
-  "version": "1.2.2",
-  "description": "React Native Indicator Component",
+  "name": "react-native-indicator-2",
+  "version": "1.2.3",
+  "description": "React Native Indicator 2 Component",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/prettier --config .prettierrc --write lib/**/*.js",
